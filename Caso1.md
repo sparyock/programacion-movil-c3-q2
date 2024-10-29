@@ -3,7 +3,6 @@
 
 ## Estructura de Componentes
 
-### CustomInput.vue
 
 ```vue
 <template>
@@ -59,7 +58,6 @@ ion-item {
 
 ## Vista Principal
 
-### Ejemplo de Formulario con 10 Inputs
 
 ```vue
 <template>
@@ -166,20 +164,3 @@ import CustomInput from '../components/CustomInput.vue';
 ```
 
 ---
-
-## Descripción del Proyecto
-
-Este archivo incluye los **10 componentes de entrada (input)** que se pueden utilizar en formularios creados con **Ionic y Vue**:
-
-1. **Input de texto** (`text`)
-2. **Input de email** (`email`)
-3. **Input de contraseña** (`password`)
-4. **Input de número** (`number`)
-5. **Input de fecha** (`datetime`)
-6. **Input de selección** (`select`)
-7. **Input de checkbox** (`checkbox`)
-8. **Input de radio** (`radio`)
-9. **Slider** (`range`)
-10. **Toggle** (`toggle`)
-
-Estos componentes permiten crear formularios interactivos y completos, que puedes integrar en tus aplicaciones móviles utilizando **Ionic Vue**.
