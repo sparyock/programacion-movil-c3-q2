@@ -318,6 +318,19 @@ export default {
   },
 };
 
+</script>
+
+<style scoped>
+/* Estilo para los campos de entrada y botón en el formulario */
+ion-input {
+  margin-bottom: 8px;
+}
+ion-button {
+  margin: 8px 0;
+}
+</style>
+
+
 ```
 ### Consideraciones de Diseño
 
